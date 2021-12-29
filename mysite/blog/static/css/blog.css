@@ -97,3 +97,7 @@ input[type=submit] {
     font-size: small;
     color: #000;
 }
+
+    .tags a {
+        margin-right: -3px;
+    }
